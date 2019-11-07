@@ -9,4 +9,6 @@ public interface TestInterface {
 	void m3();
 	
 	void m41(); 
+	
+	void mgit2();
 }
