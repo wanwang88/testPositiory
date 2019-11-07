@@ -10,5 +10,4 @@ public interface TestInterface {
 	
 	void m41(); 
 	
-	void mgit2();
 }
