@@ -10,4 +10,7 @@ public interface TestInterface {
 	
 	void m41(); 
 	
+	void m11();
+	
+	
 }
