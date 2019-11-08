@@ -11,4 +11,9 @@ public interface TestInterface {
 	void m41(); 
 	
 	void m112();
+	
+	void m11();
+	
+	
+
 }
